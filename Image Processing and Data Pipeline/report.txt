@@ -1,0 +1,7 @@
+IMAGE PROCESSING & DATA PIPELINE REPORT
+======================================
+Total URLs provided : 3
+Images processed    : 0
+Resize dimension    : 800 x 600
+Image quality       : 95%
+Status              : Completed
