@@ -1,0 +1,16 @@
+product_id,product_name,category,price,sales,rating,stock
+P001,Wireless Mouse,Electronics,799,150,4.3,45
+P002,Bluetooth Speaker,Electronics,1999,90,4.5,30
+P003,Cotton T-Shirt,Clothing,599,220,4.1,120
+P004,Running Shoes,Footwear,2999,75,4.4,25
+P005,Smart Watch,Electronics,3499,60,4.6,18
+P006,Jeans,Clothing,1499,180,4.2,80
+P007,Office Chair,Furniture,5499,40,4.0,10
+P008,Coffee Maker,Home Appliances,2599,55,4.3,22
+P009,Backpack,Bags,1299,140,4.2,65
+P010,Headphones,Electronics,1599,110,4.4,35
+P011,Sandals,Footwear,899,160,4.1,70
+P012,Microwave Oven,Home Appliances,7499,25,4.5,8
+P013,Notebook,Stationery,199,300,4.0,200
+P014,Water Bottle,Stationery,349,260,4.2,150
+P015,Laptop Stand,Electronics,999,95,4.3,40
